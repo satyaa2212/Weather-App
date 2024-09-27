@@ -1,0 +1,10 @@
+# requirements.txt is used to store the dependency file for the project. The file is used by the build system to determine the dependencies of the project.
+# we import the required libraries and modules for the prject deployment.
+# Flask==1.1.2 # flask version
+# gunicorn==20.0.4
+# requests==2.24.0
+
+# import latest version of above libraries
+Flask # flask version
+gunicorn # it is used for clouding environment
+requests
